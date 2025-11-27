@@ -1,0 +1,156 @@
+Arhitektonski fakultet
+Bioloski fakultet
+Geografski fakultet
+Gradjevinski fakultet
+Ekonomski fakultet
+Elektrotehnicki fakultet
+Matematicki fakultet
+Masinski fakultet
+Medicinski fakultet
+Poljoprivredni fakultet
+Pravni fakultet
+Pravoslavno bogoslovski fakultet
+Rudarsko-geoloski fakultet
+Saobracajni fakultet
+Stomatoloski fakultet
+Tehnicki fakultet u Boru
+Tehnolosko-metalurski fakultet
+Fakultet bezbednosti
+Fakultet veterinarske medicine
+Fakultet za obrazovanje ucitelja i vaspitaca
+Fakultet za specijalnu edukaciju i rehabilitaciju
+Fakultet za ficicku hemiju
+Fakultet organizacionih nauka
+Fakultet politickih nauka
+Fakultet sporta i fizickog vaspitanja
+Farmaceutski fakultet
+Fizicki fakultet
+Filozofski fakultet
+Filoloski fakultet
+Hemijski fakultet
+Sumarski fakultet
+Fakultet dramskih umetnosti
+Fakultet likovnih umetnosti
+Fakultet muzickih umetnosti
+Fakultet primenjenih umetnosti
+Akademija strukovnih studija Politehnika
+Akademija umetnosti Alfa BK
+Beogradska akademija poslovnih i umetnickih strukovnih studija
+Visoka gradjevinsko geodetska skola
+Visoka turisticka skola
+Visoka hotelijerska skola
+Visoka skola elektrotehnike i racunarstva
+Visoka skola za informacione i komunikacione tehnologije
+Visa zdravstvena skola
+Visoka tekstilna skola
+Racunarski fakultet
+Univerzitet Metropolitan
+Univerzitet Union Nikola Tesla
+Univerzitet Union Pravni
+Fakultet za ekonomiju, finansije i administraciju
+Fakultet za medije i komunikacije
+Fakultet savremenih umetnosti
+ARH
+BF
+GEF
+GRF
+EKOF
+ETF
+MATF
+MAS
+MFUB
+AGRIF
+PF
+PBF
+RGF
+SF
+STOMF
+TFBOR
+TMF
+FB
+FVM
+FOUV
+FASPER
+FFH
+FON
+FPN
+DIF
+FARM
+FF
+F
+FILFAK
+HF
+SHF
+FDU
+FLU
+FMU
+FPU
+POLI
+AUBG
+BAPUSS
+VGGS
+VTS
+VHS
+VISER
+ICT
+VZS
+DTM
+RAF
+MET
+UNT
+UPF
+FEFA
+FMK
+FSU
+АРХ
+БФ
+ГЕФ
+ГРФ
+ЕКОФ
+ЕТФ
+МАТФ
+МАШ
+МФУБ
+АГРИФ
+ПФ
+ПБФ
+РГФ
+СФ
+СТОМФ
+ТФБОР
+ТМФ
+ФБ
+ФВМ
+ФОУВ
+ФАСПЕР
+ФФХ
+ФОН
+ФПН
+ДИФ
+ФАРМ
+ФФ
+Ф
+ФИЛФАК
+ХФ
+ШФ
+ФДУ
+ФЛУ
+ФМУ
+ФПУ
+ПОЛИ
+АУБГ
+БАПУСС
+ВГГШ
+ВТШ
+ВХШ
+ВИШЕР
+ИЦТ
+ВЗШ
+ДТМ
+РАФ
+МЕТ
+УНТ
+УПФ
+ФЕФА
+ФМК
+ФСУ
