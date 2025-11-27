@@ -138,7 +138,7 @@ zatvorite prozor.
 
 
 - fajlovi koji su produkt ovog programa su glasoviddmm.txt, rezultati_glasanjaddmm.txt, 
-glasacka_kutija.exe, glasacka_kutija.out, glasacka_kutija.cpp. Bilo koji drugi fajl koji se nađe u ovom 
+glasacka_kutija.exe, glasacka_kutija.out, glasacka_kutija.cpp i README.md. Bilo koji drugi fajl koji se nađe u ovom 
 folderu je unet od strane drugih korisnika i nije potekao od programa glasacka_kutija.
 
 
