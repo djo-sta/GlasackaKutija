@@ -421,11 +421,11 @@ void ISPIS_GLASOVA(int br_tacaka, string* glasovi, rez* rezultati, vsu* lista_vs
             cout << "Tacka broj: " << j+1 << endl;
         }
         else {
-            cout << rezultati[j].labela << " (tacka " << j+1 << ") " <<endl;
+            cout << rezultati[j].labela << " (tacka " << j+1 << ") ";
         }
-        if (rezultati[j].rezultat == 1) cout << " je izglasana ZA";
-        else if (rezultati[j].rezultat == 2) cout << " je izglasana PROTIV";
-        else cout << " se vraca na DOGLASAVANJE";
+        if (rezultati[j].rezultat == 1) cout << " je izglasana ZA\n";
+        else if (rezultati[j].rezultat == 2) cout << " je izglasana PROTIV\n";
+        else cout << " se vraca na DOGLASAVANJE\n";
         cout << endl;
         cout << "za: " << rezultati[j].za << "    protiv: " << rezultati[j].protiv << "    uzdrzani: " << rezultati[j].uzdrzani;
         cout << "     neizjasnjeni: " << 52 - rezultati[j].za - rezultati[j].protiv - rezultati[j].uzdrzani << endl << endl;
@@ -578,7 +578,7 @@ void POTVRDJIVANJE(vsu* juce_vsu, vsu* danas_vsu, rez* rezultati, string juce, v
                 }
             }
             else {
-               cout << "nije prisutan\n";
+               cout << "nije prisutan\n\n";
                glas = "";
                for (j=0; j<broj_tacaka; j++) glas += "3";
                juce_vsu[lista_potvrdjivaca[i]].glasovi = glas;
@@ -832,9 +832,9 @@ void SMINKA(vsu* lista_vsu, rez* rezultati, int kvorum, string datum, bool prvi_
         else {
             fajl << rezultati[j].labela << " (tacka " << j+1 << ") ";
         }
-        if (rezultati[j].rezultat == 1) fajl << " je izglasana ZA";
-        else if (rezultati[j].rezultat == 2) fajl << " je izglasana PROTIV";
-        else fajl << " se vraca na DOGLASAVANJE";
+        if (rezultati[j].rezultat == 1) fajl << " je izglasana ZA\n";
+        else if (rezultati[j].rezultat == 2) fajl << " je izglasana PROTIV\n";
+        else fajl << " se vraca na DOGLASAVANJE\n";
         fajl << endl << endl;
         fajl << "  za: " << rezultati[j].za << "    protiv: " << rezultati[j].protiv << "    uzdrzani: " << rezultati[j].uzdrzani;
         fajl << "     neizjasnjeni: " << 52 - rezultati[j].za - rezultati[j].protiv - rezultati[j].uzdrzani << endl << endl;
